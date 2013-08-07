@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Dec 10 14:33:26 EST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-013b-864e-c09e-00002106387e 
+on database directory C:\Users\Public\FoodProject\.Food\Food  with class loader sun.misc.Launcher$AppClassLoader@9fbe93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.7.0_04/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_06-b24
+user.dir=C:\Users\Public\FoodProject
+derby.system.home=./.Food
+Database Class Loader started - derby.database.classpath=''
